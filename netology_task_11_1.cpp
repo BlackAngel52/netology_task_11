@@ -11,5 +11,7 @@ int main()
     std::cin >> secondName;
 
     std::cout << "Hello, " << name << " " << secondName << ".";
+
+    return 0;
 }
 
